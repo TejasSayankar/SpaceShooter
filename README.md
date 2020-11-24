@@ -1,2 +1,2 @@
 # SpaceShooter
-C++/ SFML
+C++ and SFML
